@@ -42,11 +42,10 @@ career-profile:
         My name is Hau. 
         I am looking for a Linux System Administrator position that will allow me to continue with learning and researching new technology in a stable work environment.  
 
-#education:
-#    - degree: System and Network Administration
-#      university: Quang Trung College
-#      time: 2008-2011
-#      details:
+education:
+    - degree: System and Network Administration
+      university: Quang Trung College
+      time: 2008-2011
 
 experiences:
     - role: IT Support & System Administrator
@@ -69,6 +68,7 @@ experiences:
         - Involved with customers to debug their problems (web, mail, dns services).
         - Research and deploy monitor systems for technical department.
         - Collaborated with R&D teams to research and deploy cloud based environment (OpenNebula).
+        - Updating
 
 publications:
     title: Certificates
@@ -95,7 +95,7 @@ skills:
       - name: |
             Shell scripting 
             (Bash, Python)
-        level: 75%
+        level: 70%
 
       - name: |
             Automation 
