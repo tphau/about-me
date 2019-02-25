@@ -119,12 +119,10 @@ projects:
 
 publications:
     title: Certificates
-    intro:
 
     papers:
       - title: Microsoft Certified Solutions Associate (MCSA) Certification
         authors: Nhất Nghệ Education JSC
-        website: http://vietnix.vn
 
       - title: CCNA Routing and Switching
         authors: VnPro
@@ -136,11 +134,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
 
       - name: Javascript & jQuery
-        level: 98%
 
       - name: Angular
         level: 98%
