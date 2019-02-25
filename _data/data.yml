@@ -33,9 +33,7 @@ sidebar:
 
     interests:
       - item: Reading books
-
       - item: Running
-
       - item: Traveling by motorcycle
       
 career-profile:
@@ -54,13 +52,19 @@ experiences:
       time: 2011 - 2015
       company: Nhanhmua.vn
       details: |
-        Nothing to do.
+        - Line 1
+        - Line 2
+        - Line 3
+        - Line 4
 
     - role: Linux System Administrator
       time: 2015 - Present
       company: Vietnix.vn
       details: |
-        Like a boss
+        - Line 1
+        - Line 2
+        - Line 3
+        - Line 4
 
 publications:
     title: Certificates
@@ -84,10 +88,14 @@ skills:
             (Bash, Python)
         level: 75%
 
-      - name: Automation (Ansible)
+      - name: |
+            Automation 
+            (Ansible)
         level: 70%
 
-      - name: Monitoring (Grafana, Zabbix, Prometheus)
+      - name: |
+            Monitoring 
+            (Grafana, Zabbix, Prometheus)
         level: 70%
 
 
