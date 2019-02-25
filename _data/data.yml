@@ -60,10 +60,10 @@ experiences:
       details: |
         - Responsible for diagnosing & resolving hardware, software & end users problems.
         - Maintaining computer hardware and software programmes for end-users.
-        - Deploying new hardware computer, server & new software & security risks.
-        - Deploying and managing product server.
-        - Configuring and managing backup & restore on dedicated server.
-        - Configuring and maintaining email server for company (included email marketing).
+        - Deploy new hardware computer, server & new software & security risks.
+        - Deploy and manage website on product server.
+        - Configure and manage backup & restore on dedicated server.
+        - Configure and maintaince email server for company (included email marketing).
 
     - role: Linux System Administrator
       time: 2015 - Present
@@ -74,8 +74,8 @@ experiences:
         - Involved with customers to debug their problems.
         - Research and deploy monitor systems for technical department.
         - Collaborated with R&D teams to research and deploy cloud based environment.
-        - Research and deploy Data Center Infrastructure Management.
-        - Deploy and managing monitoring systems.
+        - Research and deploy Data Center Infrastructure Management software.
+        - Deploy and manage monitoring systems.
         - Configuring and maintaining email server for company.
 
 publications:
@@ -89,7 +89,7 @@ publications:
         authors: Postfix, Exim, Zimbra
 
       - title: Automation tools
-        authors: Ansbile
+        authors: Ansible
         
       - title: Cloud based environment
         authors: OpenNebula
