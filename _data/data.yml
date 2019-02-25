@@ -64,10 +64,11 @@ experiences:
       time: 2015 - Present
       company: Công Ty Cổ Phần Giải Pháp Và Công Nghệ Vietnix (https://vietnix.vn)
       details: |
-        - Line 1
-        - Line 2
-        - Line 3
-        - Line 4
+        - Support and resolve customer issues.
+        - Network, system, application troubleshooting and other related issues.
+        - Involved with customers to debug their problems (web, mail, dns services).
+        - Research and deploy monitor systems for technical department.
+        - Collaborated with R&D teams to research and deploy cloud based environment (OpenNebula).
 
 publications:
     title: Certificates
@@ -105,6 +106,3 @@ skills:
             Monitoring 
             (Grafana, Zabbix, Prometheus)
         level: 65%
-
-
-footer:
