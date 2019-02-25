@@ -58,6 +58,10 @@ experiences:
         - Deploying and managing product server.
         - Configuring and managing backup & restore on dedicated server.
         - Configuring and maintaining email server for company (included email marketing).
+        
+       Technology:
+        - A
+        - B
 
     - role: Linux System Administrator
       time: 2015 - Present
@@ -69,6 +73,11 @@ experiences:
         - Research and deploy monitor systems for technical department.
         - Collaborated with R&D teams to research and deploy cloud based environment (OpenNebula).
         - Updating
+        
+       Technology:
+        - A
+        - B
+
 
 publications:
     title: Certificates
