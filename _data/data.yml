@@ -79,7 +79,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Shell scripting (Bash, Python)
+      - name: |
+            Shell scripting 
+            (Bash, Python)
         level: 75%
 
       - name: Automation (Ansible)
