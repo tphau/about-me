@@ -83,14 +83,10 @@ publications:
       - title: LPI 1, 2, 3 & Advanced
         authors: VnLamp
 
-publications:
-    title: Certificates
-
+skill:
+    title: Skill
     papers:
       - title: Shell Scripting (Bash, Python)
-
       - title: Monitoring (Grafana, Zabbix, Prometheus)
-
       - title: Cloud based environment (OpenNebula)
-      
       - title: Server virtualization environment (Proxmox, VmWare)
