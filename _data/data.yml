@@ -33,61 +33,34 @@ sidebar:
 
     interests:
       - item: Reading books
-        link:
 
       - item: Running
-        link:
 
       - item: Traveling by motorcycle
-        link:
-
+      
 career-profile:
     title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Hello, My name is Hau.
 
-      Second paragraph if required.
-
-education:
-    - degree: System and Network Administration
-      university: Quang Trung College
-      time: 2008-2011
-      details:
+#education:
+#    - degree: System and Network Administration
+#      university: Quang Trung College
+#      time: 2008-2011
+#      details:
 
 experiences:
     - role: IT Support & System Administrator
       time: 2011 - 2015
       company: Nhanhmua.vn
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Nothing to do.
 
     - role: Linux System Administrator
       time: 2015 - Present
       company: Vietnix.vn
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Like a boss
 
 publications:
     title: Certificates
