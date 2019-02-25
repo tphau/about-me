@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Hello, My name is Hau.
+        My name is Hau. I am looking for a Linux System Administrator position that will allow me to continue with learning and researching new technology in a stable work environment.  
 
 #education:
 #    - degree: System and Network Administration
@@ -52,10 +52,12 @@ experiences:
       time: 2011 - 2015
       company: Nhanhmua.vn (http://nhanhmua.vn)
       details: |
-        - Line 1
-        - Line 2
-        - Line 3
-        - Line 4
+        - Responsible for diagnosing & resolving hardware, software & end users problems.
+        - Maintaining computer hardware and software programmes for end-users.
+        - Deploying new hardware computer, server & new software & security risks.
+        - Configuring and managing backup & restore on dedicated server.
+        - Configuring and maintaining email server for company (included email marketing).
+        - 
 
     - role: Linux System Administrator
       time: 2015 - Present
