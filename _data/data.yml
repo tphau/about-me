@@ -86,19 +86,12 @@ publications:
 skills:
     title: Skills
 
-    summary:
-      - name: |
-            Operating Systems 
-            (Linux)
-    
-      - name: |
-            Shell scripting 
-            (Bash, Python)
+    papers:
+      - title: Microsoft Certified Solutions Associate (MCSA) Certification
+        authors: Nhất Nghệ Education JSC
 
-      - name: |
-            Automation 
-            (Ansible)
+      - title: CCNA Routing and Switching
+        authors: VnPro
 
-      - name: |
-            Monitoring 
-            (Grafana, Zabbix, Prometheus)
+      - title: LPI 1, 2, 3 & Advanced
+        authors: VnLamp
