@@ -60,7 +60,7 @@ experiences:
         - Deploying and managing product server.
         - Configuring and managing backup & restore on dedicated server.
         - Configuring and maintaining email server for company (included email marketing).
-       - Technology
+        - Technology
         - A
         - B
 
@@ -74,7 +74,7 @@ experiences:
         - Research and deploy monitor systems for technical department.
         - Collaborated with R&D teams to research and deploy cloud based environment (OpenNebula).
         - Updating
-       - Technology
+        - Technology
         - A
         - B
 
@@ -90,11 +90,3 @@ publications:
 
       - title: LPI 1, 2, 3 & Advanced
         authors: VnLamp
-
-skill:
-    title: Skill
-    papers:
-      - title: Shell Scripting (Bash, Python)
-      - title: Monitoring (Grafana, Zabbix, Prometheus)
-      - title: Cloud based environment (OpenNebula)
-      - title: Server virtualization environment (Proxmox, VmWare)
