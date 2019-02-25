@@ -96,5 +96,5 @@ publications:
       - title: Server virtualization environment
         authors: Proxmox, VMware
         
-      - title: Monitoring Tools:
+      - title: Monitoring Tools
         authors: Grafana, Zabbix, Prometheus
