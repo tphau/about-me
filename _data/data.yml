@@ -71,23 +71,24 @@ experiences:
       details: |
         - Support and resolve customer issues.
         - Network, system, application troubleshooting and other related issues.
-        - Involved with customers to debug their problems (web, mail, dns services).
+        - Involved with customers to debug their problems.
         - Research and deploy monitor systems for technical department.
-        - Collaborated with R&D teams to research and deploy cloud based environment (OpenNebula).
-        - Research and deploy Data Center Infrastructure Management (netbox).
-        - Configuring and maintaining email server for company (Zimbra).
+        - Collaborated with R&D teams to research and deploy cloud based environment.
+        - Research and deploy Data Center Infrastructure Management.
+        - Deploy and managing monitoring systems.
+        - Configuring and maintaining email server for company.
 
 publications:
     title: Skills
 
     papers:
-      - title: Shell Scripting
+      - title: Shell scripting
         authors: Bash, Python
 
-      - title: Mail Server
+      - title: Mail server
         authors: Postfix, Exim, Zimbra
 
-      - title: Automation Tools
+      - title: Automation tools
         authors: Ansbile
         
       - title: Cloud based environment
@@ -96,5 +97,5 @@ publications:
       - title: Server virtualization environment
         authors: Proxmox, VMware
         
-      - title: Monitoring Tools
+      - title: Monitoring tools
         authors: Grafana, Zabbix, Prometheus
