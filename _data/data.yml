@@ -84,25 +84,21 @@ publications:
         authors: VnLamp
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
-    toolset:
+    summary:
       - name: |
             Operating Systems 
             (Linux)
-        level: 70%
     
       - name: |
             Shell scripting 
             (Bash, Python)
-        level: 70%
 
       - name: |
             Automation 
             (Ansible)
-        level: 70%
 
       - name: |
             Monitoring 
             (Grafana, Zabbix, Prometheus)
-        level: 65%
