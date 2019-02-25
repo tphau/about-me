@@ -15,8 +15,8 @@ sidebar:
     email: hautp2203@gmail.com
     phone: 0909 783 753
     website: hautran.net
-    linkedin: hautp
-    github: hautp
+    linkedin: tphhau
+    github: tphau
     gitlab:
     bitbucket:
     twitter: 
@@ -53,31 +53,10 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: System Administrator
+      university: Quang Trung College
+      time: 2008-2011
+      details:
 
 experiences:
     - role: Lead Developer
