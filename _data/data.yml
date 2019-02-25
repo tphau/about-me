@@ -74,20 +74,27 @@ experiences:
         - Involved with customers to debug their problems (web, mail, dns services).
         - Research and deploy monitor systems for technical department.
         - Collaborated with R&D teams to research and deploy cloud based environment (OpenNebula).
-        - Updating
+        - Research and deploy Data Center Infrastructure Management (netbox).
+        - Configuring and maintaining email server for company (Zimbra).
 
 publications:
-    title: Skill
+    title: Skills
 
     papers:
       - title: Shell Scripting
         authors: Bash, Python
 
       - title: Mail Server
-        authors: Postfix, Exim
-
-      - title: Cloud based environment
-        authors: OpenNebula
+        authors: Postfix, Exim, Zimbra
 
       - title: Automation Tools
         authors: Ansbile
+        
+      - title: Cloud based environment
+        authors: OpenNebula
+        
+      - title: Server virtualization environment
+        authors: Proxmox, VMware
+        
+      - title: Monitoring Tools:
+        authors: Grafana, Zabbix, Prometheus
