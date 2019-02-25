@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: hautp2203@gmail.com
     phone: (+84) 909 783 753
-    website: hautran.net
+    website: 
     linkedin: tphau
     github: tphau
     gitlab:
@@ -48,6 +48,10 @@ education:
       time: 2008-2011
     - degree: Microsoft Certified Solutions Associate (MCSA) Certification
       university: Nhất Nghệ Education JSC
+    - degree: CCNA Routing and Switching
+      university: VnPro
+    - degree: LPI 1, 2, 3 & Advanced
+      university: VnLamp
 
 experiences:
     - role: IT Support & System Administrator
