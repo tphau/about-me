@@ -55,9 +55,9 @@ experiences:
         - Responsible for diagnosing & resolving hardware, software & end users problems.
         - Maintaining computer hardware and software programmes for end-users.
         - Deploying new hardware computer, server & new software & security risks.
+        - Deploying and managing product server.
         - Configuring and managing backup & restore on dedicated server.
         - Configuring and maintaining email server for company (included email marketing).
-        - 
 
     - role: Linux System Administrator
       time: 2015 - Present
@@ -86,6 +86,11 @@ skills:
 
     toolset:
       - name: |
+            Operating Systems 
+            (Linux)
+        level: 70%
+    
+      - name: |
             Shell scripting 
             (Bash, Python)
         level: 75%
@@ -98,7 +103,7 @@ skills:
       - name: |
             Monitoring 
             (Grafana, Zabbix, Prometheus)
-        level: 70%
+        level: 65%
 
 
 footer:
